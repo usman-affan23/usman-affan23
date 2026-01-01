@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/usman-affan23/tor-usage/blob/main/README.md)**
-- **[Bridge Takeover - Azuki Threat Hunt](https://github.com/usman-affan23/Azuki-Threat-Hunt/blob/main/README.md)
+- **[Bridge Takeover - Azuki Threat Hunt](https://github.com/usman-affan23/Azuki-Threat-Hunt/blob/main/README.md)**
 
 <hr/>
 
