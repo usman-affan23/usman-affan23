@@ -2,7 +2,7 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-- **[CV]([affanmuh-resume-main (2) (1).pdf]([affanmuh-resume-main.pdf](https://github.com/user-attachments/files/24424206/affanmuh-resume-main.pdf)))**
+- **[CV]([affanmuh-resume-main (2) (1).pdf]([affanmuh-resume-main.pdf](https://github.com/user-attachments/files/24424206/affanmuh-resume-main.pdf)**
 
 
 ## ⚠️ Vulnerability Management Projects
